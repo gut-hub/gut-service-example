@@ -3,7 +3,7 @@
     "domain": "guthub.dev",
     "image_name": "jinx-service-example",
     "image_port": 3000,
-    "image_env": ["HELLO=WORLD"],
+    "image_envs": ["HELLO=WORLD"],
     "image_secrets": [],
     "https_redirect": false,
     "https": false
